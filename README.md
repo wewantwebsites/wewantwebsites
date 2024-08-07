@@ -129,13 +129,10 @@ consists of and doesn't reflect experience or skill level.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"
-  ><img
+<div align="center">
+  <img
     alt="wewantwebsites's Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph/?username=wewantwebsites&bg_color=1e1e2e&color=cdd6f4&line=94e2d5&point=cba6f7&hide_border=true"
-/></a>
+/>
+</div>
 
-<!-- RSS Reader for blog -->
-<!-- https://pythonhosted.org/feedparser/ -->
-
-<!-- GitHub Statistics -->
