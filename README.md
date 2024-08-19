@@ -68,11 +68,6 @@
       alt="TypeScript"
       src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"
   /></a>
-  <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Aastro"
-    ><img
-      alt="AstroJS"
-      src="https://img.shields.io/badge/Astro-BC52EE.svg?logo=astro&logoColor=white"
-  /></a>
   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Atypescript"
     ><img
       alt="ReactJS"
@@ -83,7 +78,7 @@
       alt="Markdown"
       src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"
   /></a>
-  <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Ar"
+  <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Ago"
     ><img
       alt="Go"
       src="https://img.shields.io/badge/Golang-00ADD8.svg?logo=go&logoColor=white"
