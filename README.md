@@ -1,3 +1,4 @@
+<!-- I used Stephan Randle's README.md as a template stephansama -->
 <div align="center">
   <img src="./banner-7885b22c.png" alt="Hello, World!">
 </div>
@@ -19,9 +20,6 @@
   </a>
 </p>
 
-<!-- SKILLS -->
-<h3>👨🏽‍💻‍ Programming Languages</h3>
-
 <div align="center">
   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Abash"
     ><img
@@ -42,11 +40,6 @@
     ><img
       alt="CSS"
       src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"
-  /></a>
-  <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Apostcss"
-    ><img
-      alt="PostCSS"
-      src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?logo=postcss&logoColor=white"
   /></a>
   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Acss"
     ><img
@@ -73,6 +66,16 @@
       alt="ReactJS"
       src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=333"
   /></a>
+<!--    <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Asvelte"
+    ><img
+      alt="Svelte"
+      src="https://img.shields.io/badge/React-61DAFB.svg?logo=svelte&logoColor=#FF3E00"
+  /></a>
+   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Avue"
+    ><img
+      alt="Vue"
+      src="https://img.shields.io/badge/React-61DAFB.svg?logo=vue&logoColor=42d392"
+  /></a> -->
   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Amarkdown"
     ><img
       alt="Markdown"
@@ -85,9 +88,7 @@
   /></a>
 </div>
 
-<h3>🔥 GitHub Streak Stats</h3>
-
-<!-- STATS -->
+<!-- Streak -->
 <p align="center">
   <a href="https://github.com/wewantwebsites/github-readme-streak-stats">
     <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
@@ -99,7 +100,14 @@
   </a>
 </p>
 
-<h3>💻 GitHub Profile Stats</h3>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- Activity Graph -->
+<div align="center">
+  <img
+    alt="wewantwebsites's Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=wewantwebsites&bg_color=1e1e2e&color=cdd6f4&line=94e2d5&point=cba6f7&hide_border=true"
+/>
+</div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -117,17 +125,4 @@
       height="192px"
   /></a>
 </p>
-<br />
-
-<b>Note:</b> Top languages is only a metric of the languages my public code
-consists of and doesn't reflect experience or skill level.
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<div align="center">
-  <img
-    alt="wewantwebsites's Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=wewantwebsites&bg_color=1e1e2e&color=cdd6f4&line=94e2d5&point=cba6f7&hide_border=true"
-/>
-</div>
 
