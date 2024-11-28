@@ -66,16 +66,16 @@
       alt="ReactJS"
       src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=333"
   /></a>
-<!--    <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Asvelte"
+   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Asvelte"
     ><img
       alt="Svelte"
-      src="https://img.shields.io/badge/React-61DAFB.svg?logo=svelte&logoColor=#FF3E00"
+      src="https://img.shields.io/badge/Svelte-FF3E00"
   /></a>
    <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Avue"
     ><img
       alt="Vue"
-      src="https://img.shields.io/badge/React-61DAFB.svg?logo=vue&logoColor=42d392"
-  /></a> -->
+      src="https://img.shields.io/badge/Vue-42d392"
+  /></a>
   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Amarkdown"
     ><img
       alt="Markdown"
