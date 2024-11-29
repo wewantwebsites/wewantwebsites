@@ -127,4 +127,4 @@
 </p>
 
 
-<p>I used [stephansama's](https://github.com/stephansama) profile as inspiration, check out his GitHub and also his blog!</p>
+<p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
