@@ -126,3 +126,5 @@
   /></a>
 </p>
 
+
+<p>I used [stephansama's](https://github.com/stephansama) profile as inspiration, check out his GitHub and also his blog!</p>
