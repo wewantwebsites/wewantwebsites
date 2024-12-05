@@ -4,12 +4,10 @@
 </div>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/casguz4/badges/small" />
-</div>
-
-<!-- SOCIALS -->
-<p align="center">
-  <a
+  <a href="https://www.codewars.com/users/casguz4" target="_blank">
+    <img src="https://www.codewars.com/users/casguz4/badges/small" />
+  </a>
+   <a
     href="https://www.linkedin.com/in/casimer-guzdziol-iv-785276100/"
     target="_blank"
   >
@@ -18,7 +16,7 @@
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"
     />
   </a>
-</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/search?q=user%3Awewantwebsites+language%3Abash"
@@ -93,6 +91,7 @@
   <a href="https://github.com/wewantwebsites/github-readme-streak-stats">
     <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <img
+      style="width:100%;"
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="wewantwebsites's streak"
       src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=wewantwebsites&theme=catppuccin-mocha&hide_border=true"
