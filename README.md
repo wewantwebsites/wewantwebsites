@@ -84,21 +84,6 @@
   <img src="./banner-7885b22c.png" alt="Hello, World!">
 </div>
 
-
-
-<!-- Streak -->
-<p align="center">
-  <a href="https://github.com/wewantwebsites/github-readme-streak-stats">
-    <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-    <img
-      style="width:100%;"
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="wewantwebsites's streak"
-      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=wewantwebsites&theme=catppuccin-mocha&hide_border=true"
-    />
-  </a>
-</p>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- Activity Graph -->
 <div align="center">
