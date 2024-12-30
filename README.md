@@ -96,7 +96,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
-
   <a  href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Github Stats"
@@ -104,14 +103,12 @@
       height="192px"
   /></a>
 
-
   <a  href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wewantwebsites&theme=catppuccin_mocha&layout=compact&hide_border=true"
       height="192px"
   /></a>
-
 </div>
 
 
