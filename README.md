@@ -94,22 +94,24 @@
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<div align="center">
-  <a  href="https://github.com/anuraghazra/github-readme-stats"
+<p>
+  <p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Github Stats"
       src="https://github-readme-stats.vercel.app/api?username=wewantwebsites&theme=catppuccin_mocha&show_icons=true&hide_border=true"
       height="192px"
   /></a>
-
-  <a  href="https://github.com/anuraghazra/github-readme-stats"
+  </p>
+  <p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wewantwebsites&theme=catppuccin_mocha&layout=compact&hide_border=true"
       height="192px"
   /></a>
-</div>
+  </p>
+</p>
 
 
 <p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
