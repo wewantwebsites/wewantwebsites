@@ -1,8 +1,3 @@
-<!-- I used Stephan Randle's README.md as a template stephansama -->
-<div align="center">
-  <img src="./banner-7885b22c.png" alt="Hello, World!">
-</div>
-
 <div align="center">
   <a href="https://www.codewars.com/users/casguz4" target="_blank">
     <img src="https://www.codewars.com/users/casguz4/badges/small" />
@@ -85,6 +80,11 @@
       src="https://img.shields.io/badge/Golang-00ADD8.svg?logo=go&logoColor=white"
   /></a>
 </div>
+<div align="center">
+  <img src="./banner-7885b22c.png" alt="Hello, World!">
+</div>
+
+
 
 <!-- Streak -->
 <p align="center">
