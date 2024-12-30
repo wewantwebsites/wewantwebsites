@@ -95,22 +95,22 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p>
-  <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"
+
+  <a align="left" href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Github Stats"
       src="https://github-readme-stats.vercel.app/api?username=wewantwebsites&theme=catppuccin_mocha&show_icons=true&hide_border=true"
       height="192px"
   /></a>
-  </p>
-  <p align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats"
+
+
+  <a align="right" href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wewantwebsites&theme=catppuccin_mocha&layout=compact&hide_border=true"
       height="192px"
   /></a>
-  </p>
+
 </p>
 
 
