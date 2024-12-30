@@ -95,14 +95,13 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<p align="center">
+<p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Github Stats"
       src="https://github-readme-stats.vercel.app/api?username=wewantwebsites&theme=catppuccin_mocha&show_icons=true&hide_border=true"
       height="192px"
   /></a>
-  <div style="width: 50px;"></div>
   <a href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       alt="wewantwebsites's Top Languages"
