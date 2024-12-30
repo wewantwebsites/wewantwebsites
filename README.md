@@ -95,7 +95,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<div align="center">
+<div>
   <div align="left">
   <a  href="https://github.com/anuraghazra/github-readme-stats"
     ><img
